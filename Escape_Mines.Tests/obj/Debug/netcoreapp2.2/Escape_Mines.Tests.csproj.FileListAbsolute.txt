@@ -1,0 +1,17 @@
+F:\demo\Escape_Mines\Escape_Mines.Tests\obj\Debug\netcoreapp2.2\Escape_Mines.Tests.csproj.CoreCompileInputs.cache
+F:\demo\Escape_Mines\Escape_Mines.Tests\obj\Debug\netcoreapp2.2\Escape_Mines.Tests.AssemblyInfoInputs.cache
+F:\demo\Escape_Mines\Escape_Mines.Tests\obj\Debug\netcoreapp2.2\Escape_Mines.Tests.AssemblyInfo.cs
+F:\demo\Escape_Mines\Escape_Mines.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\demo\Escape_Mines\Escape_Mines.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+F:\demo\Escape_Mines\Escape_Mines.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+F:\demo\Escape_Mines\Escape_Mines.Tests\bin\Debug\netcoreapp2.2\Escape_Mines.Tests.deps.json
+F:\demo\Escape_Mines\Escape_Mines.Tests\bin\Debug\netcoreapp2.2\Escape_Mines.Tests.runtimeconfig.json
+F:\demo\Escape_Mines\Escape_Mines.Tests\bin\Debug\netcoreapp2.2\Escape_Mines.Tests.runtimeconfig.dev.json
+F:\demo\Escape_Mines\Escape_Mines.Tests\bin\Debug\netcoreapp2.2\Escape_Mines.Tests.dll
+F:\demo\Escape_Mines\Escape_Mines.Tests\bin\Debug\netcoreapp2.2\Escape_Mines.Tests.pdb
+F:\demo\Escape_Mines\Escape_Mines.Tests\bin\Debug\netcoreapp2.2\Escape_Mines.dll
+F:\demo\Escape_Mines\Escape_Mines.Tests\bin\Debug\netcoreapp2.2\Escape_Mines.pdb
+F:\demo\Escape_Mines\Escape_Mines.Tests\obj\Debug\netcoreapp2.2\Escape_Mines.Tests.csprojAssemblyReference.cache
+F:\demo\Escape_Mines\Escape_Mines.Tests\obj\Debug\netcoreapp2.2\Escape_Mines.Tests.csproj.CopyComplete
+F:\demo\Escape_Mines\Escape_Mines.Tests\obj\Debug\netcoreapp2.2\Escape_Mines.Tests.dll
+F:\demo\Escape_Mines\Escape_Mines.Tests\obj\Debug\netcoreapp2.2\Escape_Mines.Tests.pdb

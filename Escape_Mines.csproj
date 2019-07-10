@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Escape_Mines.Business\**" />
+    <Compile Remove="Escape_Mines.Tests\**" />
+    <EmbeddedResource Remove="Escape_Mines.Business\**" />
+    <EmbeddedResource Remove="Escape_Mines.Tests\**" />
+    <None Remove="Escape_Mines.Business\**" />
+    <None Remove="Escape_Mines.Tests\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="Escape_Mines.Business\Escape_Mines.Business.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+F:\demo\Escape_Mines\bin\Debug\netcoreapp2.2\Escape_Mines.deps.json
+F:\demo\Escape_Mines\bin\Debug\netcoreapp2.2\Escape_Mines.runtimeconfig.json
+F:\demo\Escape_Mines\bin\Debug\netcoreapp2.2\Escape_Mines.runtimeconfig.dev.json
+F:\demo\Escape_Mines\bin\Debug\netcoreapp2.2\Escape_Mines.dll
+F:\demo\Escape_Mines\bin\Debug\netcoreapp2.2\Escape_Mines.pdb
+F:\demo\Escape_Mines\obj\Debug\netcoreapp2.2\Escape_Mines.csproj.CoreCompileInputs.cache
+F:\demo\Escape_Mines\obj\Debug\netcoreapp2.2\Escape_Mines.AssemblyInfoInputs.cache
+F:\demo\Escape_Mines\obj\Debug\netcoreapp2.2\Escape_Mines.AssemblyInfo.cs
+F:\demo\Escape_Mines\obj\Debug\netcoreapp2.2\Escape_Mines.dll
+F:\demo\Escape_Mines\obj\Debug\netcoreapp2.2\Escape_Mines.pdb
