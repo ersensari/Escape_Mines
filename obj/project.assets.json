@@ -546,12 +546,11 @@
       ]
     },
     "Microsoft.NETCore.Targets/2.0.0": {
-      "sha512": "mJnCMoBfWL0lxxlBFJ/8cZKTfPpI82TekZkUqvSCBtunUaaqr2LVeWl1zQYdanAdk4Ddf1HCwb8+DNYaNFBk1w==",
+      "sha512": "odP/tJj1z6GylFpNo7pMtbd/xQgTC3Ex2If63dRTL38bBNMwsBnJ+RceUIyHdRBC0oik/3NehYT+oECwBhIM3Q==",
       "type": "package",
       "path": "microsoft.netcore.targets/2.0.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard1.0/_._",
@@ -563,12 +562,11 @@
       ]
     },
     "NETStandard.Library/2.0.3": {
-      "sha512": "548M6mnBSJWxsIlkQHfbzoYxpiYFXZZSL00p4GHYv8PkiqFBnnT68mW5mGEsA/ch9fDO9GkPgkFQpWiXZN7mAQ==",
+      "sha512": "st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -710,11 +708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\demo\\Escape_Mines\\Escape_Mines.csproj",
+      "projectUniqueName": "D:\\My Works\\Escape_Mines\\Escape_Mines.csproj",
       "projectName": "Escape_Mines",
-      "projectPath": "F:\\demo\\Escape_Mines\\Escape_Mines.csproj",
+      "projectPath": "D:\\My Works\\Escape_Mines\\Escape_Mines.csproj",
       "packagesPath": "C:\\Users\\ersen\\.nuget\\packages\\",
-      "outputPath": "F:\\demo\\Escape_Mines\\obj\\",
+      "outputPath": "D:\\My Works\\Escape_Mines\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -733,8 +731,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "F:\\demo\\Escape_Mines\\Escape_Mines.Business\\Escape_Mines.Business.csproj": {
-              "projectPath": "F:\\demo\\Escape_Mines\\Escape_Mines.Business\\Escape_Mines.Business.csproj"
+            "D:\\My Works\\Escape_Mines\\Escape_Mines.Business\\Escape_Mines.Business.csproj": {
+              "projectPath": "D:\\My Works\\Escape_Mines\\Escape_Mines.Business\\Escape_Mines.Business.csproj"
             }
           }
         }

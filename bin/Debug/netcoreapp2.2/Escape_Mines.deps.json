@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v2.2": {
       "Escape_Mines/1.0.0": {
+        "dependencies": {
+          "Escape_Mines.Business": "1.0.0"
+        },
         "runtime": {
           "Escape_Mines.dll": {}
+        }
+      },
+      "Escape_Mines.Business/1.0.0": {
+        "runtime": {
+          "Escape_Mines.Business.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Escape_Mines/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Escape_Mines.Business/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

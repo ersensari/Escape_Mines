@@ -1,4 +1,7 @@
-﻿using System;
+﻿using Escape_Mines.Business;
+using Escape_Mines.Business.Enums;
+using System;
+using System.IO;
 
 namespace Escape_Mines
 {
@@ -6,8 +9,16 @@ namespace Escape_Mines
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            string[] fileLines = File.ReadAllLines("inputs.txt");
+            var starter = new Starter(fileLines);
+            var results = starter.Start();
+            foreach (var r in results)
+            {
+                Console.WriteLine(r);
+            }
             Console.ReadKey();
         }
+
     }
 }

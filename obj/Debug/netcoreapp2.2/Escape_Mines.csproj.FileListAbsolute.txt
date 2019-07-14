@@ -8,3 +8,18 @@ F:\demo\Escape_Mines\obj\Debug\netcoreapp2.2\Escape_Mines.AssemblyInfoInputs.cac
 F:\demo\Escape_Mines\obj\Debug\netcoreapp2.2\Escape_Mines.AssemblyInfo.cs
 F:\demo\Escape_Mines\obj\Debug\netcoreapp2.2\Escape_Mines.dll
 F:\demo\Escape_Mines\obj\Debug\netcoreapp2.2\Escape_Mines.pdb
+D:\My Works\Escape_Mines\obj\Debug\netcoreapp2.2\Escape_Mines.csprojAssemblyReference.cache
+D:\My Works\Escape_Mines\obj\Debug\netcoreapp2.2\Escape_Mines.csproj.CoreCompileInputs.cache
+D:\My Works\Escape_Mines\obj\Debug\netcoreapp2.2\Escape_Mines.AssemblyInfoInputs.cache
+D:\My Works\Escape_Mines\obj\Debug\netcoreapp2.2\Escape_Mines.AssemblyInfo.cs
+D:\My Works\Escape_Mines\obj\Debug\netcoreapp2.2\Escape_Mines.dll
+D:\My Works\Escape_Mines\obj\Debug\netcoreapp2.2\Escape_Mines.pdb
+D:\My Works\Escape_Mines\bin\Debug\netcoreapp2.2\Escape_Mines.deps.json
+D:\My Works\Escape_Mines\bin\Debug\netcoreapp2.2\Escape_Mines.runtimeconfig.json
+D:\My Works\Escape_Mines\bin\Debug\netcoreapp2.2\Escape_Mines.runtimeconfig.dev.json
+D:\My Works\Escape_Mines\bin\Debug\netcoreapp2.2\Escape_Mines.dll
+D:\My Works\Escape_Mines\bin\Debug\netcoreapp2.2\Escape_Mines.pdb
+D:\My Works\Escape_Mines\bin\Debug\netcoreapp2.2\Escape_Mines.Business.dll
+D:\My Works\Escape_Mines\bin\Debug\netcoreapp2.2\Escape_Mines.Business.pdb
+D:\My Works\Escape_Mines\obj\Debug\netcoreapp2.2\Escape_Mines.csproj.CopyComplete
+D:\My Works\Escape_Mines\bin\Debug\netcoreapp2.2\inputs.txt

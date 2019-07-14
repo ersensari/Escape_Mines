@@ -4,4 +4,10 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Escape_Mines\**" />
+    <EmbeddedResource Remove="Escape_Mines\**" />
+    <None Remove="Escape_Mines\**" />
+  </ItemGroup>
+
 </Project>
